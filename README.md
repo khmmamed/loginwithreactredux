@@ -4,7 +4,26 @@
 [![npm package][npm-badge]][npm]
 [![Coveralls][coveralls-badge]][coveralls]
 
-Describe loginwithreactredux here.
+# what this repo made for
+
+this is a login form with modified styles made to be integrated in any modern website, responsive and js application
+
+# how to install it 
+
+just type npm install loginwithreactredux --save
+
+# How to use it 
+
+## Change Redux Config to your api config
+
+## Import Form 
+
+## import inputs
+
+## import Labels
+
+## import buttons
+
 
 [build-badge]: https://img.shields.io/travis/user/repo/master.png?style=flat-square
 [build]: https://travis-ci.org/user/repo
